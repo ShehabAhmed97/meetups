@@ -1,0 +1,22 @@
+  .navi{
+    margin-top: 30px;
+  }
+  .badge {
+    background-color: #FC997C;
+    color: white;
+    border-radius: 12px;
+    padding: .2rem .5rem;
+    margin: auto 5px;
+  }
+
+  a{
+    text-decoration: none;
+    color: rgba(0,0,0,.55);
+    font-size: 1.4rem;
+    padding: 0 10px;
+  }
+
+  a:hover{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.37);
+  }
